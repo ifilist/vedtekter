@@ -49,7 +49,7 @@
 1. Styret kan oppnevne ressurspersoner, kjent som interne. Disse skal bistå styret med drift av foreningen. 
 2. Inntak av nye interne skal godkjennes av styret.
 3. Interne må være studenter ved institutt for informatikk og ha betalt semesteravgift.
-4. Internmedlemskapet varer frem til neste generalforsamling, så lenge den interne stadig oppfyller kravene i §3.1 og §3.3
+4. Internmedlemskapet varer frem til neste generalforsamling, så lenge den interne stadig oppfyller kravene i § 7.1 og § 7.3
 
 # §8 - Mistillit
 1. Mistillitsforslag overfor foreningens styremedlemmer skal behandles på generalforsamling, og må få 2/3 flertall for å bli vedtatt.
