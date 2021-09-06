@@ -9,7 +9,7 @@
 
 # §2 - Styret
 1. Styret skal drive foreningens aktivitet og sikre gjennomføringen av foreningens formål.
-2. Styret skal ha mellom 3 og 10 styremedlemmer, som velges for ett år. Faste stillinger i styret er som følger; leder, nestleder, økonomiansvarlig og romansvarlig. Øvrige verv bestemmes av styret.
+2. Styret skal ha mellom 3 og 10 styremedlemmer, som velges for ett år. Faste stillinger i styret er som følger: leder, nestleder og økonomiansvarlig. Øvrige verv bestemmes av styret.
 3. Styret er vedtaksdyktige om 1/2 av styremedlemmene er tilstede. Vedtak gjøres med simpelt flertall, ved stemmelikhet har leder dobbeltstemme.
 4. Leder (eller nestleder) innkaller til styremøte med en ukes varsel, forslag til agenda skal foreligge senest 48 timer før møtet.
 5. Alle studenter på programmene I:ST og I:SK har møterett på styremøter, men bare styremedlemmer har tale- og stemmerett. Styret kan innvilge talerett om ønskelig.
