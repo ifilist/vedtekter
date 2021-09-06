@@ -32,10 +32,9 @@
 # §4 - Valg
 1. Styremedlemmer velges særskilt på generalforsamling, for 2 semester av gangen. Dersom det er flere kandidater enn det er ledige plasser i styret, gjøres en avstemming mellom kandidatene. Medlemmer skriver ned likt antall navn som det er ledige kandidaturer, og de kandidatene med flest stemmer vinner valget. Her trenger man ikke ha flertall, bare flest stemmer.
 2. Hver høst velges Leder .
-3. Bare medlemmer av LI:ST kan stille til valg. 
-4. Bare studenter som er registrert på bachelor- eller masterprogrammene I:SK og I:ST kan stille som leder eller nestleder. Øvrige styreverv er studenter utenom disse studieprogrammene, så lenge det er i tråd med §2.9. 
-5. Studenter fra I:SK og I:ST har prioritet. 
-6. Styret kan etterfylle økonomiansvarlig utenom generalforsamling dersom styret finner det nødvendig. I slike tilfeller velges økonomiansvarlig på nytt ved neste semesterets generalforsamling, og ikke etter 2 semestre slik det er spesifisert i §4.1. 
+3. Bare studenter som er registrert på bachelor- eller masterprogrammene I:SK og I:ST kan stille som leder eller nestleder. Øvrige styreverv er studenter utenom disse studieprogrammene, så lenge det er i tråd med §2.9. 
+4. Studenter fra I:SK og I:ST har prioritet. 
+5. Styret kan etterfylle økonomiansvarlig utenom generalforsamling dersom styret finner det nødvendig. I slike tilfeller velges økonomiansvarlig på nytt ved neste semesterets generalforsamling, og ikke etter 2 semestre slik det er spesifisert i §4.1. 
 
 # §5 - Vedtekter
 1. Forslag til vedtektsendringer skal være styret i hende senest 7 dager før generalforsamling.
