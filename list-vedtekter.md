@@ -1,6 +1,6 @@
 % Vedtekter
 % Linjeforeningen for Informatikk: Språkteknologi (LI:ST)
-% 23. februar 2021
+% 15. september 2021
 
 # §1 - Formålsparagraf
 1. Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST).
@@ -9,7 +9,7 @@
 
 # §2 - Styret
 1. Styret skal drive foreningens aktivitet og sikre gjennomføringen av foreningens formål.
-2. Styret skal ha mellom 3 og 10 styremedlemmer, som velges for ett år. Faste stillinger i styret er som følger; leder, nestleder, økonomiansvarlig og romansvarlig. Øvrige verv bestemmes av styret.
+2. Styret skal ha mellom 3 og 10 styremedlemmer, som velges for ett år. Faste stillinger i styret er som følger: leder, nestleder og økonomiansvarlig. Øvrige verv bestemmes av styret.
 3. Styret er vedtaksdyktige om 1/2 av styremedlemmene er tilstede. Vedtak gjøres med simpelt flertall, ved stemmelikhet har leder dobbeltstemme.
 4. Leder (eller nestleder) innkaller til styremøte med en ukes varsel, forslag til agenda skal foreligge senest 48 timer før møtet.
 5. Alle studenter på programmene I:ST og I:SK har møterett på styremøter, men bare styremedlemmer har tale- og stemmerett. Styret kan innvilge talerett om ønskelig.
@@ -32,10 +32,9 @@
 # §4 - Valg
 1. Styremedlemmer velges særskilt på generalforsamling, for 2 semester av gangen. Dersom det er flere kandidater enn det er ledige plasser i styret, gjøres en avstemming mellom kandidatene. Medlemmer skriver ned likt antall navn som det er ledige kandidaturer, og de kandidatene med flest stemmer vinner valget. Her trenger man ikke ha flertall, bare flest stemmer.
 2. Hver høst velges Leder .
-3. Bare medlemmer av LI:ST kan stille til valg. 
-4. Bare studenter som er registrert på bachelor- eller masterprogrammene I:SK og I:ST kan stille som leder eller nestleder. Øvrige styreverv er studenter utenom disse studieprogrammene, så lenge det er i tråd med §2.9. 
-5. Studenter fra I:SK og I:ST har prioritet. 
-6. Styret kan etterfylle økonomiansvarlig utenom generalforsamling dersom styret finner det nødvendig. I slike tilfeller velges økonomiansvarlig på nytt ved neste semesterets generalforsamling, og ikke etter 2 semestre slik det er spesifisert i §4.1. 
+3. Bare studenter som er registrert på bachelor- eller masterprogrammene I:SK og I:ST kan stille som leder eller nestleder. Øvrige styreverv er studenter utenom disse studieprogrammene, så lenge det er i tråd med §2.9. 
+4. Studenter fra I:SK og I:ST har prioritet. 
+5. Styret kan etterfylle økonomiansvarlig utenom generalforsamling dersom styret finner det nødvendig. I slike tilfeller velges økonomiansvarlig på nytt ved neste semesterets generalforsamling, og ikke etter 2 semestre slik det er spesifisert i §4.1. 
 
 # §5 - Vedtekter
 1. Forslag til vedtektsendringer skal være styret i hende senest 7 dager før generalforsamling.
@@ -50,7 +49,7 @@
 1. Styret kan oppnevne ressurspersoner, kjent som interne. Disse skal bistå styret med drift av foreningen. 
 2. Inntak av nye interne skal godkjennes av styret.
 3. Interne må være studenter ved institutt for informatikk og ha betalt semesteravgift.
-4. Internmedlemskapet varer frem til neste generalforsamling, så lenge den interne stadig oppfyller kravene i §3.1 og §3.3
+4. Internmedlemskapet varer frem til neste generalforsamling, så lenge den interne stadig oppfyller kravene i § 7.1 og § 7.3
 
 # §8 - Mistillit
 1. Mistillitsforslag overfor foreningens styremedlemmer skal behandles på generalforsamling, og må få 2/3 flertall for å bli vedtatt.
