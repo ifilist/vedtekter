@@ -1,6 +1,6 @@
 % Vedtekter
 % Linjeforeningen for Informatikk: Språkteknologi (LI:ST)
-% 23. februar 2021
+% 15. september 2021
 
 # §1 - Formålsparagraf
 1. Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST).
