@@ -57,7 +57,7 @@
 
 # §8 - Mistillit
 1. Mistillitsforslag overfor foreningens styremedlemmer skal behandles på generalforsamling, og må få 2/3 flertall for å bli vedtatt.
-2. Enhver student på I:ST kan stille mistillitsforslag.
+2. Enhver student i LI:ST kan stille mistillitsforslag.
 
 # §9 - Oppløsning
 1. Foreningen kan oppløses ved at 2/3 av de stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning. Ved oppløsning vil midler og eiendeler overføres Fordelingsutvalget (FU) ved Institutt for Informatikk (IFI).
